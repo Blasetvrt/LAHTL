@@ -3,9 +3,6 @@ import * as cheerio from "cheerio";
 import translate from "translate";
 import readline from "readline";
 
-translate.engine = "deepl";
-translate.key = "cd9fc105-c0d4-2dd2-e7a7-23aa998dfb70:fx";
-
 function readFile() {
      const buffer = fs.readFileSync('input.html');
      const $ = cheerio.load(buffer.toString())
