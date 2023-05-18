@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "jquery": "^3.7.0",
+        "jsdom": "^22.0.0",
+        "translate": "^1.4.1"
+    }
+}
