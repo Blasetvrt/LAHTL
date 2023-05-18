@@ -24,6 +24,7 @@ Simple app that translates stylized HTML LAH Scripts
 #### **Step 2:**
   Run
 ```bash
+  cd src
   node app.js
 ```
 #### **Step 3:**
